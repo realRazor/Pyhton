@@ -1,0 +1,3 @@
+Hi, I am the docstring of this code. 
+If you need any information about this function or module, read me. 
+It can help you to understand how the module or function works.
